@@ -1,0 +1,32 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*fine reset */
+/*inizio scrittura*/
+.col- {
+  position: relative;
+}
+/*inizio prima riga */
+.col-1 p {
+  text-align: center;
+  line-height: 200px;
+}
+/*fine prima riga */
+/*inizio seconda riga */
+.col-12 p {
+  text-align: center;
+  line-height: 200px;
+}
+/*fine seconda riga */
+/*inizio terza riga */
+.col-8 p {
+  text-align: center;
+  line-height: 200px;
+}
+.col-2 p {
+  text-align: center;
+  line-height: 200px;
+}
+/*fine terza riga */
