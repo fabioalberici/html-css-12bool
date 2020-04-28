@@ -30,3 +30,13 @@
   line-height: 200px;
 }
 /*fine terza riga */
+/*inizio quarta riga */
+.col-6 p {
+  text-align: center;
+  line-height: 200px;
+}
+/*fine quarta riga */
+/*inizio quinta riga*/
+.container-uno {
+  width: 50%;
+}
