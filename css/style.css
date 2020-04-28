@@ -37,6 +37,17 @@
 }
 /*fine quarta riga */
 /*inizio quinta riga*/
-.container-uno {
+.parte-uno {
   width: 50%;
+  background-color: blue;
+  height: 200px;
+  padding: 10px;
+}
+.parte-uno >.col-8 {
+  background-color: pink;
+  height: 180px;
+}
+.parte-uno>.col-2 {
+  background-color: pink;
+  height: 180px;
 }
